@@ -1,2 +1,0 @@
-# bfc
-Brainf*ck compiler
